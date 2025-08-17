@@ -38,7 +38,7 @@ Big-Mart-Sales-Prediction/
 
 Install requirements:
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 ## 🚀 Usage
 
